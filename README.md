@@ -2,3 +2,4 @@
 
 1. `.bash_profile` is only used when logging in.
 1. `.bashrc` runs when bash opens, new tab etc.
+1. `.bash_history`
